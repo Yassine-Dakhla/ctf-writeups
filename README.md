@@ -4,9 +4,9 @@ A personal collection of cybersecurity challenge notes, CTF write-ups, and lesso
 
 ## Platforms
 
-- [OverTheWire: Bandit](./OverTheWire/Bandit/README.md) — Linux command-line and shell fundamentals.
-- [Cylab Security Academy](./Cylab-Security-Academy/README.md) — web security labs and practical exercises.
-- [TryHackMe](./TryHackMe/README.md) — guided cybersecurity rooms and labs.
+- [OverTheWire: Bandit](./OverTheWire/Bandit/README.md) — Linux command-line and shell fundamentals. Reached Level 23.
+- [Cylab Security Academy](./Cylab-Security-Academy/README.md) — completed multiple CTF challenges and web security labs.
+- [TryHackMe](./TryHackMe/README.md) — completed multiple rooms and practical cybersecurity exercises.
 - [CTF Competitions](./CTF-Competitions/README.md) — notes from online CTF events.
 
 ## Write-up format
@@ -23,7 +23,7 @@ Where relevant, each write-up will include:
 
 ## Progress
 
-This repository is a work in progress. Notes will be added as challenges are completed and documented. No challenge is marked as solved unless I have actually completed it.
+I have completed multiple Cylab Security Academy challenges, completed multiple TryHackMe rooms, and reached Level 23 in OverTheWire Bandit. This repository is being built out to document selected challenges and lessons learned. Individual write-ups will be added as they are prepared.
 
 ## Responsible use
 
