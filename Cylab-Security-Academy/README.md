@@ -2,9 +2,11 @@
 
 Notes and write-ups from web security challenges and labs on Cylab Security Academy.
 
-## Topics
+## Progress
 
-Add a section for each topic as work progresses, such as:
+I have completed multiple challenges on Cylab Security Academy. This section will document selected challenges, the investigation process, and the lessons learned.
+
+## Topics
 
 - Authentication and session management
 - HTTP headers and request handling
@@ -14,8 +16,6 @@ Add a section for each topic as work progresses, such as:
 
 ## Write-up template
 
-For each completed challenge, record the challenge name, objective, relevant observations, testing process, tools used, result, and lessons learned. Include remediation advice when applicable.
+For each challenge, record the challenge name, objective, relevant observations, testing process, tools used, result, and lessons learned. Include remediation advice when applicable.
 
-## Progress
-
-No challenges are marked as completed here yet. Add write-ups only after completing the relevant labs and checking the platform's sharing rules.
+Only publish solutions when the platform's rules allow it, and avoid exposing sensitive information from active challenges.
